@@ -711,9 +711,9 @@ binary-extensions@^1.0.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.8.0.tgz#48ec8d16df4377eae5fa5884682480af4d95c774"
 
-bitcoin-exchange-client@~0.4.1:
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/bitcoin-exchange-client/-/bitcoin-exchange-client-0.4.3.tgz#f2d2121a36eb9d1d18a504c1397987bfa39d7ddb"
+bitcoin-exchange-client@^0.5.0:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/bitcoin-exchange-client/-/bitcoin-exchange-client-0.5.3.tgz#a488b1c84155dc5189322847511f20fff72d58c0"
   dependencies:
     isomorphic-fetch "^2.2.0"
 
@@ -2463,8 +2463,8 @@ home-or-tmp@^2.0.0:
     os-tmpdir "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.4.2.tgz#0076b9f46a270506ddbaaea56496897460612a67"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 htmlescape@^1.1.0:
   version "1.1.1"
